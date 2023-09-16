@@ -9,7 +9,9 @@ The integration of different omics layers can provide more insights into molecul
 ### 🛠️ Contents
 - Preprocessing pipelines
 - Machine learning view to multi-omics integration
-- Deep learning view to multi-omics integration
+- Deep learning view to multi-omics integration <a target="_blank" href="https://colab.research.google.com/github/TransRadOnc-HIT/multi-omics-SSMP2023/blob/main/DeepLearningDataIntegration.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ### 🎓 Objective
 By the end of this session, participants will have a clearer understanding of how to handle, analyze, and interpret multi-omics data.
