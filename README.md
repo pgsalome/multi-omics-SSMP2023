@@ -7,7 +7,6 @@ This repository contains all the necessary materials, datasets, and notebooks fo
 The integration of different omics layers can provide more insights into molecular changes in tumors during radiotherapy. These hands-on sessions aim to guide participants through the intricacies of multi-omics data analysis, blending theory with practical exercises.
 
 ### 🛠️ Contents
-- Introduction to Multi-Omics
 - Preprocessing pipelines
 - Machine learning view to multi-omics integration
 - Deep learning view to multi-omics integration
@@ -17,7 +16,7 @@ By the end of this session, participants will have a clearer understanding of ho
 
 ### 🗓️ Event Details
 - **Date**: 21.7.2023
-- **Venue**: German Cancer Research Center
+- **Venue**: German Cancer Research Center (DKFZ)
 - **Speaker**: Patrick Salome
 
 ### 🔗 Useful Links
