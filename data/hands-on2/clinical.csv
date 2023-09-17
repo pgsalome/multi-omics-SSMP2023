@@ -91,10 +91,10 @@ HN-HGJ-090,1,M,53,Oropharynx,T2,N2a,M0,stage IVA,+,0,42,41,56,-265,chemo radiati
 HN-HGJ-091,1,M,65,Oropharynx,T3,N0,M0,stage III,+,0,35,34,54,96,chemo radiation,0
 HN-HGJ-092,1,M,53,Oropharynx,T2,N1,M0,stage III,+,0,63,62,82,121,chemo radiation,1
 HN-CHUS-001,2,M,66,Larynx,T2,N0,M0,Stade II,N/A,0,41,41,59,109,radiation,N/A
-HN-CHUS-002,2,M,66,Larynx,T2,N0,M0,Stade II,N/A,0,34,TBD,48,97,radiation,N/A
+HN-CHUS-002,2,M,66,Larynx,T2,N0,M0,Stade II,N/A,0,34,,48,97,radiation,N/A
 HN-CHUS-003,2,F,51,Oropharynx,T2,N0,M0,Stade II,N/A,0,81,81,96,133,radiation,N/A
 HN-CHUS-004,2,F,56,Oropharynx,T2,N1,M0,Stade III,N/A,0,27,27,41,62,chemo radiation,N/A
-HN-CHUS-005,2,M,63,Oropharynx,T2,N2,M0,Stade IVA,N/A,0,29,TBD,48,100,chemo radiation,N/A
+HN-CHUS-005,2,M,63,Oropharynx,T2,N2,M0,Stade IVA,N/A,0,29,,48,100,chemo radiation,N/A
 HN-CHUS-006,2,F,69,Oropharynx,T2,N2,M0,Stade IVA,N/A,0,21,21,38,90,chemo radiation,N/A
 HN-CHUS-007,2,F,65,Oropharynx,T3,N1,M0,Stade III,N/A,0,33,33,53,106,chemo radiation,N/A
 HN-CHUS-008,2,M,70,Oropharynx,T3,N0,M0,Stade III,N/A,0,53,53,80,131,radiation,N/A
@@ -122,7 +122,7 @@ HN-CHUS-029,2,F,63,Larynx,T3,N0,M0,Stade III,N/A,0,34,34,57,106,chemo radiation,
 HN-CHUS-030,2,M,77,Oropharynx,T2,N0,M0,Stade II,N/A,0,46,46,72,115,radiation,N/A
 HN-CHUS-031,2,M,65,Oropharynx,T3,N0,M0,Stade III,N/A,0,23,23,45,98,radiation,N/A
 HN-CHUS-032,2,M,59,Larynx,T3,N2,M0,Stade IVA,N/A,0,27,27,55,105,chemo radiation,N/A
-HN-CHUS-033,2,M,71,Oropharynx,T1,N2,M0,Stade IVA,N/A,0,28,TBD,48,93,chemo radiation,N/A
+HN-CHUS-033,2,M,71,Oropharynx,T1,N2,M0,Stade IVA,N/A,0,28,,48,93,chemo radiation,N/A
 HN-CHUS-034,2,M,71,Larynx,T4a,N0,M0,Stade IVA,N/A,0,40,40,67,119,chemo radiation,N/A
 HN-CHUS-035,2,M,53,Oropharynx,T2,N3,M0,Stade IVB,N/A,0,35,35,58,108,chemo radiation,N/A
 HN-CHUS-036,2,F,35,Oropharynx,T2,N0,M0,Stade II,-,0,34,34,53,102,chemo radiation,N/A
@@ -174,23 +174,23 @@ HN-CHUS-082,2,F,81,Nasopharynx,T4,N0,M0,Stade IVA,N/A,0,29,29,43,87,radiation,N/
 HN-CHUS-083,2,M,71,Oropharynx,T2,N2,M0,Stade IVA,+,0,35,35,50,95,chemo radiation,N/A
 HN-CHUS-084,2,F,88,Larynx,T3,N0,M0,Stade III,-,0,43,43,61,100,radiation,N/A
 HN-CHUS-085,2,M,60,Oropharynx,T2,N2,M0,Stade IVA,+,0,28,28,54,97,chemo radiation,N/A
-HN-CHUS-086,2,M,52,Oropharynx,T4a,N2,M0,Stade IVA,-,0,46,TBD,60,106,chemo radiation,N/A
+HN-CHUS-086,2,M,52,Oropharynx,T4a,N2,M0,Stade IVA,-,0,46,,60,106,chemo radiation,N/A
 HN-CHUS-087,2,M,60,Oropharynx,T3,N0,M0,Stade III,+,0,27,27,41,87,chemo radiation,N/A
 HN-CHUS-088,2,F,77,Oropharynx,T2,N2,M0,Stade IVA,+,0,31,31,48,93,chemo radiation,N/A
-HN-CHUS-089,2,M,65,Oropharynx,T1,N2,M0,Stade IVA,+,0,-13,TBD,41,89,chemo radiation,N/A
+HN-CHUS-089,2,M,65,Oropharynx,T1,N2,M0,Stade IVA,+,0,-13,,41,89,chemo radiation,N/A
 HN-CHUS-090,2,M,71,Oropharynx,T2,N2,M0,Stade IVA,+,0,36,36,51,98,chemo radiation,N/A
 HN-CHUS-091,2,M,61,Oropharynx,T2,N2,M0,Stade IVA,+,0,28,28,46,92,chemo radiation,N/A
 HN-CHUS-092,2,M,57,Nasopharynx,T2,N1,M0,Stade II,-,0,21,21,42,88,chemo radiation,N/A
-HN-CHUS-093,2,M,64,Nasopharynx,T4a,N1,M0,Stade IVA,-,0,9,TBD,63,109,chemo radiation,N/A
+HN-CHUS-093,2,M,64,Nasopharynx,T4a,N1,M0,Stade IVA,-,0,9,,63,109,chemo radiation,N/A
 HN-CHUS-094,2,M,59,Oropharynx,T2,N0,M0,Stade II,+,0,24,24,42,87,radiation,N/A
 HN-CHUS-095,2,M,75,Oropharynx,T1,N2,M0,Stade IVA,-,0,50,50,69,111,radiation,N/A
-HN-CHUS-096,2,M,67,Oropharynx,T2,N1,M0,Stade III,+,0,35,TBD,54,99,radiation,N/A
+HN-CHUS-096,2,M,67,Oropharynx,T2,N1,M0,Stade III,+,0,35,,54,99,radiation,N/A
 HN-CHUS-097,2,M,75,Oropharynx,T3,N3,M0,Stade IVB,+,0,27,27,39,84,chemo radiation,N/A
 HN-CHUS-098,2,M,61,Oropharynx,T3,N2,M0,Stade IVA,+,0,47,47,61,106,chemo radiation,N/A
-HN-CHUS-099,2,M,53,Larynx,T3,N2,M0,Stade IVA,N/A,0,44,TBD,70,115,chemo radiation,N/A
-HN-CHUS-100,2,M,62,Oropharynx,T4a,N2,M0,Stade IVA,+,0,23,TBD,54,93,chemo radiation,N/A
-HN-CHUS-101,2,M,51,Oropharynx,T3,N2,M0,Stade IVA,-,0,73,TBD,91,136,chemo radiation,N/A
-HN-CHUS-102,2,F,68,Hypopharynx,T2,N0,M0,Stade II,-,0,23,TBD,37,78,radiation,N/A
+HN-CHUS-099,2,M,53,Larynx,T3,N2,M0,Stade IVA,N/A,0,44,,70,115,chemo radiation,N/A
+HN-CHUS-100,2,M,62,Oropharynx,T4a,N2,M0,Stade IVA,+,0,23,,54,93,chemo radiation,N/A
+HN-CHUS-101,2,M,51,Oropharynx,T3,N2,M0,Stade IVA,-,0,73,,91,136,chemo radiation,N/A
+HN-CHUS-102,2,F,68,Hypopharynx,T2,N0,M0,Stade II,-,0,23,,37,78,radiation,N/A
 HN-HMR-001,3,M,54,Oropharynx,T4a,N2c,M0,stage IVA,N/A,0,19,48,68,113,chemo radiation,N/A
 HN-HMR-002,3,M,56,Hypopharynx,T4b,N2c,M0,stage IVB,N/A,0,-9,20,39,88,chemo radiation,N/A
 HN-HMR-003,3,M,82,Nasopharynx,T4,N0,M0,stage IVA,N/A,0,34,71,83,133,chemo radiation,N/A
@@ -232,68 +232,68 @@ HN-HMR-038,3,M,70,Larynx,T2,N2b,M0,Stage IVA,N/A,0,43,35,54,96,chemo radiation,N
 HN-HMR-039,3,M,61,Nasopharynx,T1,N3b,M0,stage IVB,N/A,0,26,49,67,112,chemo radiation,N/A
 HN-HMR-040,3,F,61,Oropharynx,T4,N2c,M0,Stage IVA,N/A,0,54,41,66,114,chemo radiation,N/A
 HN-HMR-041,3,F,62,Larynx,T2,N2,M0,Stage IVA,N/A,0,38,33,47,95,chemo radiation,N/A
-HN-CHUM-001,4,M,82,Oropharynx,T2,N2,M0,Stage IV,N/A,0,9,TBD,53,102,chemo radiation,N/A
-HN-CHUM-002,4,M,73,Oropharynx,T3,N2,M0,Stage IV,N/A,0,53,TBD,94,132,chemo radiation,N/A
-HN-CHUM-003,4,M,56,unknown,Tx,N2,M0,N/A,N/A,0,46,TBD,88,136,chemo radiation,N/A
-HN-CHUM-004,4,M,62,unknown,Tx,N2,M0,N/A,N/A,0,40,TBD,74,122,chemo radiation,N/A
-HN-CHUM-005,4,F,67,unknown,Tx,N2,M0,Stage IV,-,0,80,TBD,104,150,chemo radiation,N/A
-HN-CHUM-006,4,M,65,Oropharynx,T2,N2,M0,Stage IV,N/A,0,41,TBD,53,101,chemo radiation,N/A
-HN-CHUM-007,4,F,70,Oropharynx,T2,N2,M0,Stage IV,N/A,0,43,TBD,55,104,radiation,N/A
-HN-CHUM-008,4,F,67,Oropharynx,T2,N2,M0,Stage IV,N/A,0,43,TBD,54,104,chemo radiation,N/A
-HN-CHUM-009,4,M,64,unknown,Tx,N2,M0,Stage IV,N/A,0,38,TBD,57,105,chemo radiation,N/A
-HN-CHUM-010,4,M,57,Oropharynx,T1,N2,M0,Stage IV,N/A,0,83,TBD,95,139,chemo radiation,N/A
-HN-CHUM-011,4,M,61,Oropharynx,T3,N2,M0,Stage IV,N/A,0,50,TBD,62,110,chemo radiation,N/A
-HN-CHUM-012,4,M,61,Oropharynx,T2,N1,M0,Stage III,+,0,42,TBD,54,99,chemo radiation,N/A
-HN-CHUM-013,4,F,67,Oropharynx,T1,N2,M0,Stage IV,N/A,0,26,TBD,78,123,chemo radiation,N/A
-HN-CHUM-014,4,M,59,Oropharynx,T2,N1,M0,Stage IV,+,0,63,TBD,75,123,chemo radiation,N/A
-HN-CHUM-015,4,M,59,Oropharynx,T1,N1,M0,Stage III,N/A,0,42,TBD,54,99,chemo radiation,N/A
-HN-CHUM-016,4,M,58,Oropharynx,T2,N2,M0,Stage IV,+,0,44,TBD,56,101,chemo radiation,N/A
-HN-CHUM-017,4,M,77,Oropharynx,T3,N2,M0,Stage IV,N/A,0,39,TBD,91,136,chemo radiation,N/A
-HN-CHUM-018,4,F,57,Oropharynx,T2,N0,M0,StageII,N/A,0,39,TBD,104,152,radiation,N/A
-HN-CHUM-019,4,M,62,Oropharynx,T2,N2,M0,Stage IV,N/A,0,42,TBD,53,98,chemo radiation,N/A
-HN-CHUM-020,4,M,67,Nasopharynx,T3,N3,M0,Stage IV,N/A,0,108,TBD,119,164,chemo radiation,N/A
-HN-CHUM-021,4,M,63,Oropharynx,T4,N2,M0,Stage IV,+,0,24,TBD,55,100,chemo radiation,N/A
-HN-CHUM-022,4,M,56,Oropharynx,T2,N2,M0,Stage IV,+,0,37,TBD,55,101,chemo radiation,N/A
-HN-CHUM-023,4,F,65,Oropharynx,T2,N2,M0,Stage IV,N/A,0,27,TBD,39,84,chemo radiation,N/A
-HN-CHUM-024,4,M,59,Oropharynx,T3,N2,M0,Stage IV,N/A,0,51,TBD,63,108,chemo radiation,N/A
-HN-CHUM-025,4,F,57,unknown,Tx,N2,M0,Stage IV,N/A,0,-6,TBD,46,90,chemo radiation,N/A
-HN-CHUM-026,4,F,67,Oropharynx,T2,N3,M0,Stage IV,+,0,-3,TBD,45,90,chemo radiation,N/A
-HN-CHUM-027,4,F,69,Oropharynx,T3,N2,M0,Stage IV,N/A,0,-191,TBD,-179,-131,chemo radiation,N/A
-HN-CHUM-028,4,M,73,Hypopharynx,T3,N2,M0,Stage IV,-,0,43,TBD,55,104,chemo radiation,N/A
-HN-CHUM-029,4,M,50,Oropharynx,T2,N3,M0,Stage IV,+,0,13,TBD,25,74,chemo radiation,N/A
-HN-CHUM-030,4,M,68,Oropharynx,T3,N2,M0,Stage IV,N/A,0,42,TBD,53,97,chemo radiation,N/A
-HN-CHUM-031,4,M,65,Oropharynx,T2,N2,M0,Stage IV,N/A,0,36,TBD,54,99,chemo radiation,N/A
-HN-CHUM-032,4,M,52,Oropharynx,T3,N2,M0,Stage IV,N/A,0,21,TBD,56,104,chemo radiation,N/A
-HN-CHUM-033,4,M,68,Oropharynx,T3,N2,M0,Stage IV,+,0,29,TBD,63,108,chemo radiation,N/A
-HN-CHUM-034,4,M,49,Oropharynx,T3,N2,M0,Stage IV,N/A,0,20,TBD,31,76,chemo radiation,N/A
-HN-CHUM-035,4,M,63,Oropharynx,T3,N3,M0,Stage IV,N/A,0,-19,TBD,21,66,chemo radiation,N/A
-HN-CHUM-036,4,M,51,Oropharynx,T1,N2,M0,Stage IV,+,0,49,TBD,60,104,chemo radiation,N/A
-HN-CHUM-037,4,F,70,Oropharynx,T2,N2,M0,Stage IV,+,0,24,TBD,35,79,chemo radiation,N/A
-HN-CHUM-038,4,M,44,Oropharynx,T1,N2,M0,Stage IV,N/A,0,51,TBD,62,107,chemo radiation,N/A
-HN-CHUM-039,4,M,61,Oropharynx,T2,N2,M0,Stage IV,+,0,24,TBD,35,82,chemo radiation,N/A
-HN-CHUM-040,4,M,71,Oropharynx,T1,N2,M0,Stage IV,+,0,-13,TBD,53,99,chemo radiation,N/A
-HN-CHUM-041,4,M,64,Oropharynx,T2,N1,M0,Stage III,+,0,-10,TBD,1,46,chemo radiation,N/A
-HN-CHUM-042,4,M,60,Oropharynx,T2,N2,M0,Stage IV,N/A,0,30,TBD,41,86,chemo radiation,N/A
-HN-CHUM-043,4,M,58,Oropharynx,T4,N2,M0,Stage IV,+,0,90,TBD,111,158,chemo radiation,N/A
-HN-CHUM-044,4,F,44,Oropharynx,T2,N2,M0,Stage IV,+,0,34,TBD,45,91,chemo radiation,N/A
-HN-CHUM-045,4,M,50,Oropharynx,T1,N2,M0,Stage IV,+,0,41,TBD,54,98,chemo radiation,N/A
-HN-CHUM-046,4,F,64,Oropharynx,T1,N1,M0,Stage III,+,0,28,TBD,35,83,radiation,N/A
-HN-CHUM-047,4,F,51,Oropharynx,T2,N2,M0,Stage IV,N/A,0,91,TBD,103,148,chemo radiation,N/A
-HN-CHUM-048,4,M,90,Oropharynx,T2,N0,M0,StageII,N/A,0,43,TBD,54,103,radiation,N/A
-HN-CHUM-049,4,M,69,Oropharynx,T4,N0,M0,Stage IV,N/A,0,63,TBD,75,120,chemo radiation,N/A
-HN-CHUM-050,4,M,71,Oropharynx,T3,N2,M0,Stage IV,N/A,0,35,TBD,46,91,chemo radiation,N/A
-HN-CHUM-051,4,M,71,Oropharynx,T2,N2,M0,Stage IV,+,0,34,TBD,58,105,chemo radiation,N/A
-HN-CHUM-052,4,M,47,Nasopharynx,T2,N2,M0,Stage III,N/A,0,81,TBD,102,147,chemo radiation,N/A
-HN-CHUM-053,4,F,62,Oropharynx,T3,N2,M0,Stage IV,-,0,42,TBD,53,102,chemo radiation,N/A
-HN-CHUM-054,4,M,70,Oropharynx,T2,N1,M0,Stage III,N/A,0,48,TBD,59,104,chemo radiation,N/A
-HN-CHUM-055,4,F,65,Oropharynx,T4,N1,M0,Stage IV,+,0,58,TBD,70,115,chemo radiation,N/A
-HN-CHUM-056,4,M,57,Oropharynx,T3,N3,M0,Stage IV,N/A,0,28,TBD,39,85,chemo radiation,N/A
-HN-CHUM-057,4,M,71,Oropharynx,T2,N2,M0,Stage IV,N/A,0,44,TBD,57,101,chemo radiation,N/A
-HN-CHUM-058,4,F,60,Oropharynx,T2,N3,M0,Stage IV,+,0,57,TBD,68,114,chemo radiation,N/A
-HN-CHUM-059,4,M,66,Oropharynx,T2,N2,M0,Stage IV,N/A,0,15,TBD,26,71,chemo radiation,N/A
-HN-CHUM-060,4,M,48,Oropharynx,T4,N3,M0,Stage IV,+,0,69,TBD,75,120,chemo radiation,N/A
-HN-CHUM-061,4,M,72,Oropharynx,T2,N2,M0,Stage IV,N/A,0,20,TBD,54,103,chemo radiation,N/A
-HN-CHUM-062,4,M,72,Oropharynx,T3,N1,M0,Stage III,N/A,0,69,TBD,81,130,chemo radiation,N/A
-HN-CHUM-063,4,M,77,Oropharynx,T3,N2,M0,Stage IV,N/A,0,4,TBD,30,84,chemo radiation,N/A
-HN-CHUM-064,4,M,73,Oropharynx,T3,N3,M0,Stage IV,N/A,0,44,TBD,56,100,chemo radiation,N/A
-HN-CHUM-065,4,M,81,Oropharynx,T3,N0,M0,Stage IV,N/A,0,14,TBD,73,118,chemo radiation,N/A
+HN-CHUM-001,4,M,82,Oropharynx,T2,N2,M0,Stage IV,N/A,0,9,,53,102,chemo radiation,N/A
+HN-CHUM-002,4,M,73,Oropharynx,T3,N2,M0,Stage IV,N/A,0,53,,94,132,chemo radiation,N/A
+HN-CHUM-003,4,M,56,unknown,Tx,N2,M0,N/A,N/A,0,46,,88,136,chemo radiation,N/A
+HN-CHUM-004,4,M,62,unknown,Tx,N2,M0,N/A,N/A,0,40,,74,122,chemo radiation,N/A
+HN-CHUM-005,4,F,67,unknown,Tx,N2,M0,Stage IV,-,0,80,,104,150,chemo radiation,N/A
+HN-CHUM-006,4,M,65,Oropharynx,T2,N2,M0,Stage IV,N/A,0,41,,53,101,chemo radiation,N/A
+HN-CHUM-007,4,F,70,Oropharynx,T2,N2,M0,Stage IV,N/A,0,43,,55,104,radiation,N/A
+HN-CHUM-008,4,F,67,Oropharynx,T2,N2,M0,Stage IV,N/A,0,43,,54,104,chemo radiation,N/A
+HN-CHUM-009,4,M,64,unknown,Tx,N2,M0,Stage IV,N/A,0,38,,57,105,chemo radiation,N/A
+HN-CHUM-010,4,M,57,Oropharynx,T1,N2,M0,Stage IV,N/A,0,83,,95,139,chemo radiation,N/A
+HN-CHUM-011,4,M,61,Oropharynx,T3,N2,M0,Stage IV,N/A,0,50,,62,110,chemo radiation,N/A
+HN-CHUM-012,4,M,61,Oropharynx,T2,N1,M0,Stage III,+,0,42,,54,99,chemo radiation,N/A
+HN-CHUM-013,4,F,67,Oropharynx,T1,N2,M0,Stage IV,N/A,0,26,,78,123,chemo radiation,N/A
+HN-CHUM-014,4,M,59,Oropharynx,T2,N1,M0,Stage IV,+,0,63,,75,123,chemo radiation,N/A
+HN-CHUM-015,4,M,59,Oropharynx,T1,N1,M0,Stage III,N/A,0,42,,54,99,chemo radiation,N/A
+HN-CHUM-016,4,M,58,Oropharynx,T2,N2,M0,Stage IV,+,0,44,,56,101,chemo radiation,N/A
+HN-CHUM-017,4,M,77,Oropharynx,T3,N2,M0,Stage IV,N/A,0,39,,91,136,chemo radiation,N/A
+HN-CHUM-018,4,F,57,Oropharynx,T2,N0,M0,StageII,N/A,0,39,,104,152,radiation,N/A
+HN-CHUM-019,4,M,62,Oropharynx,T2,N2,M0,Stage IV,N/A,0,42,,53,98,chemo radiation,N/A
+HN-CHUM-020,4,M,67,Nasopharynx,T3,N3,M0,Stage IV,N/A,0,108,,119,164,chemo radiation,N/A
+HN-CHUM-021,4,M,63,Oropharynx,T4,N2,M0,Stage IV,+,0,24,,55,100,chemo radiation,N/A
+HN-CHUM-022,4,M,56,Oropharynx,T2,N2,M0,Stage IV,+,0,37,,55,101,chemo radiation,N/A
+HN-CHUM-023,4,F,65,Oropharynx,T2,N2,M0,Stage IV,N/A,0,27,,39,84,chemo radiation,N/A
+HN-CHUM-024,4,M,59,Oropharynx,T3,N2,M0,Stage IV,N/A,0,51,,63,108,chemo radiation,N/A
+HN-CHUM-025,4,F,57,unknown,Tx,N2,M0,Stage IV,N/A,0,-6,,46,90,chemo radiation,N/A
+HN-CHUM-026,4,F,67,Oropharynx,T2,N3,M0,Stage IV,+,0,-3,,45,90,chemo radiation,N/A
+HN-CHUM-027,4,F,69,Oropharynx,T3,N2,M0,Stage IV,N/A,0,-191,,-179,-131,chemo radiation,N/A
+HN-CHUM-028,4,M,73,Hypopharynx,T3,N2,M0,Stage IV,-,0,43,,55,104,chemo radiation,N/A
+HN-CHUM-029,4,M,50,Oropharynx,T2,N3,M0,Stage IV,+,0,13,,25,74,chemo radiation,N/A
+HN-CHUM-030,4,M,68,Oropharynx,T3,N2,M0,Stage IV,N/A,0,42,,53,97,chemo radiation,N/A
+HN-CHUM-031,4,M,65,Oropharynx,T2,N2,M0,Stage IV,N/A,0,36,,54,99,chemo radiation,N/A
+HN-CHUM-032,4,M,52,Oropharynx,T3,N2,M0,Stage IV,N/A,0,21,,56,104,chemo radiation,N/A
+HN-CHUM-033,4,M,68,Oropharynx,T3,N2,M0,Stage IV,+,0,29,,63,108,chemo radiation,N/A
+HN-CHUM-034,4,M,49,Oropharynx,T3,N2,M0,Stage IV,N/A,0,20,,31,76,chemo radiation,N/A
+HN-CHUM-035,4,M,63,Oropharynx,T3,N3,M0,Stage IV,N/A,0,-19,,21,66,chemo radiation,N/A
+HN-CHUM-036,4,M,51,Oropharynx,T1,N2,M0,Stage IV,+,0,49,,60,104,chemo radiation,N/A
+HN-CHUM-037,4,F,70,Oropharynx,T2,N2,M0,Stage IV,+,0,24,,35,79,chemo radiation,N/A
+HN-CHUM-038,4,M,44,Oropharynx,T1,N2,M0,Stage IV,N/A,0,51,,62,107,chemo radiation,N/A
+HN-CHUM-039,4,M,61,Oropharynx,T2,N2,M0,Stage IV,+,0,24,,35,82,chemo radiation,N/A
+HN-CHUM-040,4,M,71,Oropharynx,T1,N2,M0,Stage IV,+,0,-13,,53,99,chemo radiation,N/A
+HN-CHUM-041,4,M,64,Oropharynx,T2,N1,M0,Stage III,+,0,-10,,1,46,chemo radiation,N/A
+HN-CHUM-042,4,M,60,Oropharynx,T2,N2,M0,Stage IV,N/A,0,30,,41,86,chemo radiation,N/A
+HN-CHUM-043,4,M,58,Oropharynx,T4,N2,M0,Stage IV,+,0,90,,111,158,chemo radiation,N/A
+HN-CHUM-044,4,F,44,Oropharynx,T2,N2,M0,Stage IV,+,0,34,,45,91,chemo radiation,N/A
+HN-CHUM-045,4,M,50,Oropharynx,T1,N2,M0,Stage IV,+,0,41,,54,98,chemo radiation,N/A
+HN-CHUM-046,4,F,64,Oropharynx,T1,N1,M0,Stage III,+,0,28,,35,83,radiation,N/A
+HN-CHUM-047,4,F,51,Oropharynx,T2,N2,M0,Stage IV,N/A,0,91,,103,148,chemo radiation,N/A
+HN-CHUM-048,4,M,90,Oropharynx,T2,N0,M0,StageII,N/A,0,43,,54,103,radiation,N/A
+HN-CHUM-049,4,M,69,Oropharynx,T4,N0,M0,Stage IV,N/A,0,63,,75,120,chemo radiation,N/A
+HN-CHUM-050,4,M,71,Oropharynx,T3,N2,M0,Stage IV,N/A,0,35,,46,91,chemo radiation,N/A
+HN-CHUM-051,4,M,71,Oropharynx,T2,N2,M0,Stage IV,+,0,34,,58,105,chemo radiation,N/A
+HN-CHUM-052,4,M,47,Nasopharynx,T2,N2,M0,Stage III,N/A,0,81,,102,147,chemo radiation,N/A
+HN-CHUM-053,4,F,62,Oropharynx,T3,N2,M0,Stage IV,-,0,42,,53,102,chemo radiation,N/A
+HN-CHUM-054,4,M,70,Oropharynx,T2,N1,M0,Stage III,N/A,0,48,,59,104,chemo radiation,N/A
+HN-CHUM-055,4,F,65,Oropharynx,T4,N1,M0,Stage IV,+,0,58,,70,115,chemo radiation,N/A
+HN-CHUM-056,4,M,57,Oropharynx,T3,N3,M0,Stage IV,N/A,0,28,,39,85,chemo radiation,N/A
+HN-CHUM-057,4,M,71,Oropharynx,T2,N2,M0,Stage IV,N/A,0,44,,57,101,chemo radiation,N/A
+HN-CHUM-058,4,F,60,Oropharynx,T2,N3,M0,Stage IV,+,0,57,,68,114,chemo radiation,N/A
+HN-CHUM-059,4,M,66,Oropharynx,T2,N2,M0,Stage IV,N/A,0,15,,26,71,chemo radiation,N/A
+HN-CHUM-060,4,M,48,Oropharynx,T4,N3,M0,Stage IV,+,0,69,,75,120,chemo radiation,N/A
+HN-CHUM-061,4,M,72,Oropharynx,T2,N2,M0,Stage IV,N/A,0,20,,54,103,chemo radiation,N/A
+HN-CHUM-062,4,M,72,Oropharynx,T3,N1,M0,Stage III,N/A,0,69,,81,130,chemo radiation,N/A
+HN-CHUM-063,4,M,77,Oropharynx,T3,N2,M0,Stage IV,N/A,0,4,,30,84,chemo radiation,N/A
+HN-CHUM-064,4,M,73,Oropharynx,T3,N3,M0,Stage IV,N/A,0,44,,56,100,chemo radiation,N/A
+HN-CHUM-065,4,M,81,Oropharynx,T3,N0,M0,Stage IV,N/A,0,14,,73,118,chemo radiation,N/A
