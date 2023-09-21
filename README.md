@@ -25,4 +25,4 @@ By the end of this session, participants will have a clearer understanding of ho
 - [Summer School Main Page](https://www.dkfz.de/en/medphys/education_and_training/summer_school_2023_de.html)
 
 ### Feedback & Questions
-We encourage participants to raise issues in this repository for any questions, feedback, or clarifications. Alternatively, reach out via [p.salome@dkfz.de](mailto:p.salome@dkfz.de).
+For any questions, feedback, or clarifications [p.salome@dkfz.de](mailto:p.salome@dkfz.de).
