@@ -10,7 +10,8 @@ The integration of different omics layers can provide more insights into molecul
 - DataPreprocessing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TransRadOnc-HIT/multi-omics-SSMP2023/blob/main/Hands_on_1_DataPreprocessing.ipynb)
 - Machine learning view to multi-omics integration 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_FOR_SECOND_NOTEBOOK_ON_COLAB)
 - Machine learning view to multi-omics integration 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TransRadOnc-HIT/multi-omics-SSMP2023/blob/main/Hands_on_3_MachineLearningView2.ipynb)
-- Deep learning view to multi-omics integration [![Open In Colab](https://colab.research.google.com/github/TransRadOnc-HIT/multi-omics-SSMP2023/blob/main/Hands_on_4_DeepLearningView.ipynb)
+- Deep learning view to multi-omics integration [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TransRadOnc-HIT/multi-omics-SSMP2023/blob/main/Hands_on_4_DeepLearningView.ipynb)
+
 
 ### 🎓 Objective
 By the end of this session, participants will have a clearer understanding of how to handle, analyze, and interpret multi-omics data.
