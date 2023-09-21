@@ -7,9 +7,9 @@ This repository contains all the necessary materials, datasets, and notebooks fo
 The integration of different omics layers can provide more insights into molecular changes in tumors during radiotherapy. These hands-on sessions aim to guide participants through the intricacies of multi-omics data analysis, blending theory with practical exercises.
 
 ### 🛠️ Contents
-- Preprocessing pipelines [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_FOR_FIRST_NOTEBOOK_ON_COLAB)
-- Machine learning view to multi-omics integration 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_FOR_FIRST_NOTEBOOK_ON_COLAB)
-- Machine learning view to multi-omics integration 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_FOR_FIRST_NOTEBOOK_ON_COLAB)
+- DataPreprocessing [![Open In Colab](https://colab.research.google.com/github/TransRadOnc-HIT/multi-omics-SSMP2023/blob/main/Hands_on_1_DataPreprocessing.ipynb)](URL_FOR_FIRST_NOTEBOOK_ON_COLAB)
+- Machine learning view to multi-omics integration 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_FOR_SECOND_NOTEBOOK_ON_COLAB)
+- Machine learning view to multi-omics integration 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_FOR_THIRD_NOTEBOOK_ON_COLAB)
 - Deep learning view to multi-omics integration [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TransRadOnc-HIT/multi-omics-SSMP2023/blob/main/DeepLearningDataIntegration.ipynb)
 
 ### 🎓 Objective
